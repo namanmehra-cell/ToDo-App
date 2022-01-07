@@ -6,7 +6,7 @@ return(
 
 }}>
     <footer>
-    <p>Copyright © {date} Made by Abhinav</p>
+    <p>Copyright © {date} Made by Naman</p>
     
     </footer>
     </div>
